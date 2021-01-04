@@ -1,16 +1,18 @@
-### Hi there 👋
+#### Hi there 👋
+##### I'm Encription
 
-<!--
-**Encription0001/Encription0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Information:
+My names encription, I mainly do Python and Java, I like to work with discord bots, and SpigotAPI.
+I'm from the USA, my time zone is EST.
 
-Here are some ideas to get you started:
+### Social Media:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![alt text](https://i.imgur.com/yL9Qaj7.png) | @Encription0001
+
+![alt text](https://i.imgur.com/xyoNuZR.png) | encription#1791
+
+### Languages:
+
+![alt text](https://i.imgur.com/9LOBHY7.png)
+
+![alt text](https://i.imgur.com/zA30tct.jpg)
