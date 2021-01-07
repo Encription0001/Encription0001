@@ -2,7 +2,7 @@
 ##### I'm Encription
 
 # Information:
-My names encription, I mainly do Python and Java, I like to work with discord bots, and SpigotAPI.
+I mainly do Python and Java, I like to work with discord bots, and SpigotAPI.
 
 I'm from the USA, my time zone is EST.
 
