@@ -1,5 +1,5 @@
 #### Hi there 👋
-##### I'm Encription
+
 
 # Information:
 I mainly do Python and Java, I like to work with discord bots, and SpigotAPI.
