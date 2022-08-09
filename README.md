@@ -12,8 +12,3 @@ I'm from the USA
 
 ![alt text](https://i.imgur.com/xyoNuZR.png)  encription#1791
 
-### Languages:
-
-![alt text](https://i.imgur.com/9LOBHY7.png)
-
-![alt text](https://i.imgur.com/tzBw4VU.png)
