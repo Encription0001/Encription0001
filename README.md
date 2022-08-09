@@ -2,9 +2,9 @@
 
 
 # Information:
-I mainly do Python and Java, I like to work with discord bots, and SpigotAPI.
+I do C, C++, Python and Java, I like to work with algorithms and SpigotAPI.
 
-I'm from the USA, my time zone is EST.
+I'm from the USA
 
 ### Social Media:
 
